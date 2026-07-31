@@ -42,11 +42,9 @@
 
 | Proyecto | Descripción |
 |---|---|
-| 🚗 [Sistema de revisión vehicular](#) | Sistema para gestionar y automatizar procesos de revisión vehicular |
-| ⚔️ [Vikingos vs Piratas](#) | Juego / simulación desarrollado como proyecto académico |
-| 🧭 [Agente inteligente para turismo](#) | Agente inteligente orientado a recomendaciones y planificación turística |
-
-> 💡 Reemplaza los `#` por el link real de cada repositorio (ej: `https://github.com/Fernand0-Carrera/nombre-del-repo`) para que sean clicables.
+| 🛡️ [Sistema de Cotizaciones y Alertas de Servicios de Seguridad](https://github.com/Fernand0-Carrera/Proyecto_2B) | Sistema desarrollado para la empresa Segadvice, orientado a la gestión de cotizaciones y alertas de servicios de seguridad |
+| ⚔️ [Vikingos vs Piratas](https://github.com/KINETIX-STUDIO-GR2SW/2026A_GR2SW_GR3/tree/main) | Juego / simulación desarrollado como proyecto académico |
+| 🧵 [Ejecución de múltiples tareas con procesos e hilos](https://github.com/Fernand0-Carrera/ProyectoHilos) | Proyecto académico sobre concurrencia: manejo de procesos e hilos para ejecutar tareas simultáneas |
 
 ---
 
@@ -54,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fernand0-Carrera&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Fernand0-Carrera&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernand0-Carrera&layout=compact&theme=tokyonight" alt="Top Langs" width="35%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fernand0-Carrera&theme=tokyonight" alt="GitHub Streak" width="49%"/>
