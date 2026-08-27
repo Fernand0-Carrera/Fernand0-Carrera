@@ -55,7 +55,7 @@
 <img src="https://github-readme-stats-eight-zeta-58.vercel.app/api?username=Fernand0-Carrera&show_icons=true&theme=tokyonight&cache_bust=1" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-stats-eight-zeta-58.vercel.app/api/top-langs/?username=Fernand0-Carrera&layout=compact&theme=tokyonight&cache_bust=1" alt="Top Langs" width="35%" />
 
-<img src="https://streak-stats.demolab.com/?user=Fernand0-Carrera&theme=tokyonight" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-streak-stats-sooty-alpha.vercel.app/?user=Fernand0-Carrera&theme=tokyonight" alt="GitHub Streak" width="49%"/>
 
 </div>
 
