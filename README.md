@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Fernando%20Carrera&fontSize=40&fontAlignY=32&fontColor=ffffff&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software&descAlignY=58&descSize=16)
 
 <a href="https://linkedin.com/in/fernando-carrera-677451382"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:feralcaza28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
@@ -68,6 +68,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernand0-Carrera)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-carrera-677451382)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Fernand0-Carrera&color=2c5364&style=flat-square&label=Visitas+al+perfil)
+![Visitas al perfil](https://visitor-badge.laobi.icu/badge?page_id=Fernand0-Carrera.Fernand0-Carrera&left_color=gray&right_color=%232c5364&left_text=Visitas%20al%20perfil)
 
 </div>
