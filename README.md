@@ -32,9 +32,9 @@
 
 ### 🚀 En lo que estoy trabajando ahora
 
-- 🔭 Desarrollando proyectos personales y académicos
+- 🧠 **Investigación en IA:** reproduciendo [Thought2Text](https://aclanthology.org/2025.findings-naacl.207/) (NAACL 2025), un sistema que genera texto a partir de señales cerebrales (EEG) con modelos de lenguaje. Estoy replicando su entrenamiento en [este repositorio](https://github.com/JorgeR47/Thought2Text_EPN) y preparando un piloto propio con la diadema Muse.
+- 🌿 **[Huertos Medicinales Comunitarios](https://github.com/NovaAlexandriaEPN/repositorio-huertos):** aplicación web en Django para gestionar huertos comunitarios. Desarrollo el módulo de actividades: registro, anulaciones, puntos, Maestro del huerto y Huerto Virtual.
 - 📚 Reforzando algoritmos y estructuras de datos
-- 🧠 Mejorando mis habilidades de programación día a día
 
 ---
 
@@ -42,8 +42,10 @@
 
 | Proyecto | Descripción |
 |---|---|
-| 🛡️ [Sistema de Cotizaciones y Alertas de Servicios de Seguridad](https://github.com/Fernand0-Carrera/Proyecto_2B) | Sistema desarrollado para la empresa Segadvice, orientado a la gestión de cotizaciones y alertas de servicios de seguridad |
-| ⚔️ [Vikingos vs Piratas](https://github.com/KINETIX-STUDIO-GR2SW/2026A_GR2SW_GR3/tree/main) | Juego / simulación desarrollado como proyecto académico |
+| 🧠 [Thought2Text: réplica de investigación](https://github.com/JorgeR47/Thought2Text_EPN) | Reproducción del artículo Thought2Text (NAACL 2025), que genera texto a partir de señales EEG con modelos de lenguaje. Corregí y documenté el entrenamiento del codificador EEG (PyTorch, Transformers) |
+| 🌿 [Huertos Medicinales Comunitarios](https://github.com/NovaAlexandriaEPN/repositorio-huertos) | Aplicación web en Django para gestionar huertos comunitarios. Desarrollé el módulo de actividades: registro, anulaciones, puntos, Maestro del huerto y Huerto Virtual, con pruebas automáticas |
+| 🛡️ [Sistema de Cotizaciones y Alertas de Servicios de Seguridad](https://github.com/Fernand0-Carrera/Proyecto_2B) | Sistema para la empresa Segadvice que automatiza cotizaciones y alertas de servicios de seguridad (Java, PostgreSQL). Implementé el control de acceso basado en roles |
+| ⚔️ [Vikingos vs Piratas](https://github.com/KINETIX-STUDIO-GR2SW/2026A_GR2SW_GR3/tree/main) | Motor gráfico 3D en C++ y OpenGL. Integré la reproducción de video en el renderizado y la interfaz con Dear ImGui |
 | 🧵 [Ejecución de múltiples tareas con procesos e hilos](https://github.com/Fernand0-Carrera/ProyectoHilos) | Proyecto académico sobre concurrencia: manejo de procesos e hilos para ejecutar tareas simultáneas |
 
 ---
